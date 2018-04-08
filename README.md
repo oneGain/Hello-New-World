@@ -1,2 +1,2 @@
 # Hello-New-World
-new start
+/new start/
