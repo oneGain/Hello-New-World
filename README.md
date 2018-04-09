@@ -1,7 +1,8 @@
 # Hello-New-World
 /new start/
 
--featur-A
+- featur-A
 
 - fix-B
 
+- feature-C
